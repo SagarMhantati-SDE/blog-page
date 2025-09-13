@@ -6,8 +6,8 @@ const CONFIG = {
     role: "Software Engineer",
     bio: "Exploring Tech",
     email: "sagar.mhantati@gmail.com",
-    linkedin: "https://www.linkedin.com/in/smhantati/",
-    github: "https://github.com/SagarMhantati-SDE",
+    linkedin: "smhantati",
+    github: "SagarMhantati-SDE",
     instagram: "",
   },
   projects: [
